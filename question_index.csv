@@ -1,0 +1,384 @@
+﻿topic_folder,question_number,class_name,source_file,question_title
+arrays,001,arrays.Q001,src/arrays/Q001.java,Program to copy all elements of one array into another array
+arrays,002,arrays.Q002,src/arrays/Q002.java,Program to find the frequency of each element in the array
+arrays,003,arrays.Q003,src/arrays/Q003.java,Program to left rotate the elements of an array
+arrays,004,arrays.Q004,src/arrays/Q004.java,Program to print the duplicate elements of an array
+arrays,005,arrays.Q005,src/arrays/Q005.java,Program to print the elements of an array
+arrays,006,arrays.Q006,src/arrays/Q006.java,Program to print the elements of an array in reverse order
+arrays,007,arrays.Q007,src/arrays/Q007.java,Program to print the elements of an array present on even position
+arrays,008,arrays.Q008,src/arrays/Q008.java,Program to print the elements of an array present on odd position
+arrays,009,arrays.Q009,src/arrays/Q009.java,Program to print the largest element in an array
+arrays,010,arrays.Q010,src/arrays/Q010.java,Program to print the smallest element in an array
+arrays,011,arrays.Q011,src/arrays/Q011.java,Program to print the number of elements present in an array
+arrays,012,arrays.Q012,src/arrays/Q012.java,Program to print the sum of all the items of the array
+arrays,013,arrays.Q013,src/arrays/Q013.java,Program to right rotate the elements of an array
+arrays,014,arrays.Q014,src/arrays/Q014.java,Program to sort the elements of an array in ascending order
+arrays,015,arrays.Q015,src/arrays/Q015.java,Program to sort the elements of an array in descending order
+arrays,016,arrays.Q016,src/arrays/Q016.java,Program to Find 3rd Largest Number in an array
+arrays,017,arrays.Q017,src/arrays/Q017.java,Program to Find 2nd Largest Number in an array
+arrays,018,arrays.Q018,src/arrays/Q018.java,Program to Find Largest Number in an array
+arrays,019,arrays.Q019,src/arrays/Q019.java,Program to Find 2nd Smallest Number in an array
+arrays,020,arrays.Q020,src/arrays/Q020.java,Program to Find Smallest Number in an array
+arrays,021,arrays.Q021,src/arrays/Q021.java,Program to Remove Duplicate Element in an array
+arrays,022,arrays.Q022,src/arrays/Q022.java,Program to Print Odd and Even Numbers from an array
+arrays,023,arrays.Q023,src/arrays/Q023.java,How to Sort an Array in Java
+functions,001,functions.Q001,src/functions/Q001.java,Write a Java method to find the smallest number among three numbers.
+functions,002,functions.Q002,src/functions/Q002.java,Write a Java method to compute the average of three numbers.
+functions,003,functions.Q003,src/functions/Q003.java,Write a Java method to display the middle character of a string.
+functions,004,functions.Q004,src/functions/Q004.java,Write a Java method to count all the words in a string.
+functions,005,functions.Q005,src/functions/Q005.java,Write a Java method to compute the future investment value at a given interest rate for a specified number of years.
+functions,006,functions.Q006,src/functions/Q006.java,Write a Java method to print characters between two characters (i.e. A to P).
+functions,007,functions.Q007,src/functions/Q007.java,Write a Java method to check whether a string is a valid password.
+functions,008,functions.Q008,src/functions/Q008.java,Write a Java method to display the current date and time.
+functions,009,functions.Q009,src/functions/Q009.java,Write a Java method to find all twin prime numbers less than 100.
+functions,010,functions.Q010,src/functions/Q010.java,Write a Java method to count the number of digits in an integer with the value 2. The integer may be assumed to be non-negative.
+functions,011,functions.Q011,src/functions/Q011.java,Write a Java method that accepts three integers and checks whether they are consecutive or not. Returns true or false.
+functions,012,functions.Q012,src/functions/Q012.java,"Write a Java method that accepts three integers and returns true if one is the middle point between the other two integers, otherwise false."
+functions,013,functions.Q013,src/functions/Q013.java,"Write a Java method that checks whether all the characters in a given string are vowels (a, e, i, o, u) or not."
+strings,001,strings.Q001,src/strings/Q001.java,Program to Check if a String contains only digits?
+strings,002,strings.Q002,src/strings/Q002.java,Program to perform Deep Copy for String?
+strings,003,strings.Q003,src/strings/Q003.java,Program to prove String is immutable programmatically?
+strings,004,strings.Q004,src/strings/Q004.java,Program to remove all occurrences of a given character from input String?
+strings,005,strings.Q005,src/strings/Q005.java,Program to append the string using StringBuffer class
+strings,006,strings.Q006,src/strings/Q006.java,Program to insert the string using StringBuffer class
+strings,007,strings.Q007,src/strings/Q007.java,Program to Add Characters to a String
+strings,008,strings.Q008,src/strings/Q008.java,Program to Add Characters to a String
+strings,009,strings.Q009,src/strings/Q009.java,Program to Check Anagram
+strings,010,strings.Q010,src/strings/Q010.java,Program to check whether a string is a Palindrome
+strings,011,strings.Q011,src/strings/Q011.java,Program to Convert Enum to String
+strings,012,strings.Q012,src/strings/Q012.java,Program to Convert String to String Array
+strings,013,strings.Q013,src/strings/Q013.java,Program to count number of words in a String?
+strings,014,strings.Q014,src/strings/Q014.java,Program to count the total number of characters in a string
+strings,015,strings.Q015,src/strings/Q015.java,Program to count the total number of punctuation characters exists in a String
+strings,016,strings.Q016,src/strings/Q016.java,Program to count the total number of vowels and consonants in a string
+strings,017,strings.Q017,src/strings/Q017.java,Program to determine whether a given string is palindrome
+strings,018,strings.Q018,src/strings/Q018.java,Program to determine whether one string is a rotation of another
+strings,019,strings.Q019,src/strings/Q019.java,Program to divide a string in 'N' equal parts.
+strings,020,strings.Q020,src/strings/Q020.java,Program to find all subsets of a string
+strings,021,strings.Q021,src/strings/Q021.java,Program to find all the permutations of a string
+strings,022,strings.Q022,src/strings/Q022.java,Program to find maximum and minimum occurring character in a string
+strings,023,strings.Q023,src/strings/Q023.java,Program to find Reverse of the string
+strings,024,strings.Q024,src/strings/Q024.java,Program to find the duplicate characters in a string
+strings,025,strings.Q025,src/strings/Q025.java,Program to find the duplicate words in a string
+strings,026,strings.Q026,src/strings/Q026.java,Program to find the frequency of characters
+strings,027,strings.Q027,src/strings/Q027.java,Program to find the largest and smallest word in a string
+strings,028,strings.Q028,src/strings/Q028.java,Program to find the longest repeating sequence in a string
+strings,029,strings.Q029,src/strings/Q029.java,Program to find the most repeated word in a text file
+strings,030,strings.Q030,src/strings/Q030.java,Program to find the number of the words in the given text file
+strings,031,strings.Q031,src/strings/Q031.java,Program to Get a Character From the Given String
+strings,032,strings.Q032,src/strings/Q032.java,Program to Insert a string into another string
+strings,033,strings.Q033,src/strings/Q033.java,Program to Iterate Over Characters in String
+strings,034,strings.Q034,src/strings/Q034.java,Program to Print a New Line in String
+strings,035,strings.Q035,src/strings/Q035.java,Program to Print even length words
+strings,036,strings.Q036,src/strings/Q036.java,Program to print smallest and biggest possible palindrome word in a given string
+strings,037,strings.Q037,src/strings/Q037.java,Program to remove all the white spaces from a string
+strings,038,strings.Q038,src/strings/Q038.java,Program to replace lower-case characters with upper-case and vice-versa
+strings,039,strings.Q039,src/strings/Q039.java,Program to replace the spaces of a string with a specific character
+strings,040,strings.Q040,src/strings/Q040.java,Program to separate the Individual Characters from a String
+strings,041,strings.Q041,src/strings/Q041.java,Program to Splitting into a number of sub-strings
+strings,042,strings.Q042,src/strings/Q042.java,Program to swap two string variables without using third or temp variable.
+strings,043,strings.Q043,src/strings/Q043.java,Program to Swapping Pair of Characters
+strings,044,strings.Q044,src/strings/Q044.java,Read two String user input and check if first contains second?
+strings,045,strings.Q045,src/strings/Q045.java,Reserve String without reverse() function
+strings,046,strings.Q046,src/strings/Q046.java,Reverse String Word by Word
+strings,047,strings.Q047,src/strings/Q047.java,Write a program to check if two Strings are created with same characters?
+strings,048,strings.Q048,src/strings/Q048.java,Write a program to find out first non repeated character from input String?
+strings,049,strings.Q049,src/strings/Q049.java,Create an object StringBuffer class to reverse the string.
+strings,050,strings.Q050,src/strings/Q050.java,"Create an object StringBuffer class to show functionality of insert, append, delete and replace functions."
+multidimensionalarrays,001,multidimensionalarrays.Q001,src/multidimensionalarrays/Q001.java,Enter the Matrix of rows and columns entered by the user and print in matrix format
+multidimensionalarrays,002,multidimensionalarrays.Q002,src/multidimensionalarrays/Q002.java,Program to Add Two Matrices
+multidimensionalarrays,003,multidimensionalarrays.Q003,src/multidimensionalarrays/Q003.java,Program to Multiply Two Matrices
+multidimensionalarrays,004,multidimensionalarrays.Q004,src/multidimensionalarrays/Q004.java,Program to subtract the two matrices
+multidimensionalarrays,005,multidimensionalarrays.Q005,src/multidimensionalarrays/Q005.java,Program to determine whether two matrices are equal
+multidimensionalarrays,006,multidimensionalarrays.Q006,src/multidimensionalarrays/Q006.java,Program to display the lower triangular matrix
+multidimensionalarrays,007,multidimensionalarrays.Q007,src/multidimensionalarrays/Q007.java,Program to display the upper triangular matrix
+multidimensionalarrays,008,multidimensionalarrays.Q008,src/multidimensionalarrays/Q008.java,Program to find the frequency of odd & even numbers in the given matrix
+multidimensionalarrays,009,multidimensionalarrays.Q009,src/multidimensionalarrays/Q009.java,Program to find the sum of each row and each column of a matrix
+multidimensionalarrays,010,multidimensionalarrays.Q010,src/multidimensionalarrays/Q010.java,Program to find the transpose of a given matrix
+multidimensionalarrays,011,multidimensionalarrays.Q011,src/multidimensionalarrays/Q011.java,Program to determine whether a given matrix is an identity matrix
+multidimensionalarrays,012,multidimensionalarrays.Q012,src/multidimensionalarrays/Q012.java,Program to Transpose matrix
+multidimensionalarrays,013,multidimensionalarrays.Q013,src/multidimensionalarrays/Q013.java,Program to determine whether a given matrix is a sparse matrix
+basicprogramming,001,basicprogramming.Q001,src/basicprogramming/Q001.java,Write a Java program to print ‘Hello World!’ on screen
+basicprogramming,002,basicprogramming.Q002,src/basicprogramming/Q002.java,Write a Java program to print the sum of two numbers
+basicprogramming,003,basicprogramming.Q003,src/basicprogramming/Q003.java,Write a Java program that takes two numbers and display the product of two numbers
+basicprogramming,004,basicprogramming.Q004,src/basicprogramming/Q004.java,"Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers"
+basicprogramming,005,basicprogramming.Q005,src/basicprogramming/Q005.java,Write a Java program that takes five numbers as input to calculate and print the average of the numbers
+basicprogramming,006,basicprogramming.Q006,src/basicprogramming/Q006.java,Write a Java program to swap two variables
+basicprogramming,007,basicprogramming.Q007,src/basicprogramming/Q007.java,Write a Java program to convert a decimal number to binary numbers
+basicprogramming,008,basicprogramming.Q008,src/basicprogramming/Q008.java,Write a Java program to convert a binary number to decimal number
+basicprogramming,009,basicprogramming.Q009,src/basicprogramming/Q009.java,Write a Java program to check whether Java is installed on your computer or not
+basicprogramming,010,basicprogramming.Q010,src/basicprogramming/Q010.java,Write a Java program and compute the sum of the digits of an integer
+basicprogramming,011,basicprogramming.Q011,src/basicprogramming/Q011.java,Write a Java program to compare two numbers
+basicprogramming,012,basicprogramming.Q012,src/basicprogramming/Q012.java,"Write a Java program to count the letters, spaces, numbers and other characters of an input string"
+basicprogramming,013,basicprogramming.Q013,src/basicprogramming/Q013.java,Write a Java program to print the ascii value of a given character
+basicprogramming,014,basicprogramming.Q014,src/basicprogramming/Q014.java,Write a Java program that accepts an integer (n) and computes the value of n+nn+nnn
+basicprogramming,015,basicprogramming.Q015,src/basicprogramming/Q015.java,Write a Java program to display the system time
+basicprogramming,016,basicprogramming.Q016,src/basicprogramming/Q016.java,Write a Java program to print the odd numbers from 1 to 20
+basicprogramming,017,basicprogramming.Q017,src/basicprogramming/Q017.java,Write a Java program to print the even numbers from 1 to 20
+basicprogramming,018,basicprogramming.Q018,src/basicprogramming/Q018.java,Write a Java program to convert a string to an integer
+basicprogramming,019,basicprogramming.Q019,src/basicprogramming/Q019.java,"Write a Java program to convert seconds to hour, minute and seconds"
+basicprogramming,020,basicprogramming.Q020,src/basicprogramming/Q020.java,Write a Java program to compute the sum of the first 100 prime numbers
+basicprogramming,021,basicprogramming.Q021,src/basicprogramming/Q021.java,Write a Java program to swap the first and last elements of an array and create a new array
+basicprogramming,022,basicprogramming.Q022,src/basicprogramming/Q022.java,Write a Java program to count the number of even and odd elements in a given array
+basicprogramming,023,basicprogramming.Q023,src/basicprogramming/Q023.java,Write a Java program to compute the square root of an given integer
+basicprogramming,024,basicprogramming.Q024,src/basicprogramming/Q024.java,Write a Java program to check if a positive number is a palindrome or not
+basicprogramming,025,basicprogramming.Q025,src/basicprogramming/Q025.java,Write a Java program to add two numbers without using any arithmetic operators
+basicprogramming,026,basicprogramming.Q026,src/basicprogramming/Q026.java,Write a Java program to add all the digits of a given positive integer
+basicprogramming,027,basicprogramming.Q027,src/basicprogramming/Q027.java,Java program to find area of circle
+basicprogramming,028,basicprogramming.Q028,src/basicprogramming/Q028.java,Java Program to find area of rectangle
+basicprogramming,029,basicprogramming.Q029,src/basicprogramming/Q029.java,Java Program to find area of triangle
+basicprogramming,030,basicprogramming.Q030,src/basicprogramming/Q030.java,Java Program to find area of equilateral triangle
+basicprogramming,031,basicprogramming.Q031,src/basicprogramming/Q031.java,Java Program to find area of rhombus
+basicprogramming,032,basicprogramming.Q032,src/basicprogramming/Q032.java,Java Program to find area of parallelogram
+basicprogramming,033,basicprogramming.Q033,src/basicprogramming/Q033.java,Java Program to find area of Prism
+basicprogramming,034,basicprogramming.Q034,src/basicprogramming/Q034.java,Java Program to find volume of sphere
+basicprogramming,035,basicprogramming.Q035,src/basicprogramming/Q035.java,Java Program to find volume of cylinder
+basicprogramming,036,basicprogramming.Q036,src/basicprogramming/Q036.java,Java Program to find volume of cuboid
+basicprogramming,037,basicprogramming.Q037,src/basicprogramming/Q037.java,Java Program to find volume of cone
+basicprogramming,038,basicprogramming.Q038,src/basicprogramming/Q038.java,Java program to find surface area of cuboid
+basicprogramming,039,basicprogramming.Q039,src/basicprogramming/Q039.java,Java program to find surface area of cylinder
+basicprogramming,040,basicprogramming.Q040,src/basicprogramming/Q040.java,Java program to find surface area of cube
+basicprogramming,041,basicprogramming.Q041,src/basicprogramming/Q041.java,Java program to calculate average marks
+basicprogramming,042,basicprogramming.Q042,src/basicprogramming/Q042.java,Java program to check vowel or consonant
+basicprogramming,043,basicprogramming.Q043,src/basicprogramming/Q043.java,Java program to sum of N numbers
+basicprogramming,044,basicprogramming.Q044,src/basicprogramming/Q044.java,Java program to find factorial of any number
+basicprogramming,045,basicprogramming.Q045,src/basicprogramming/Q045.java,Java Program to calculate electricity bill
+basicprogramming,046,basicprogramming.Q046,src/basicprogramming/Q046.java,Java Program To Calculate CGPA Percentage
+basicprogramming,047,basicprogramming.Q047,src/basicprogramming/Q047.java,Java Program to calculate compound interest
+basicprogramming,048,basicprogramming.Q048,src/basicprogramming/Q048.java,Java Program To Calculate Batting Average
+basicprogramming,049,basicprogramming.Q049,src/basicprogramming/Q049.java,Java Pogram to Calculate Commission Percentage
+basicprogramming,050,basicprogramming.Q050,src/basicprogramming/Q050.java,Java Pogram To Find Distance Between Two Points
+basicprogramming,051,basicprogramming.Q051,src/basicprogramming/Q051.java,Java Program To Calculate Power Of Number
+basicprogramming,052,basicprogramming.Q052,src/basicprogramming/Q052.java,Write a Java program to take three numbers from the user and print the greatest number
+basicprogramming,053,basicprogramming.Q053,src/basicprogramming/Q053.java,Write a Java program to find the number of days in a month
+basicprogramming,054,basicprogramming.Q054,src/basicprogramming/Q054.java,Write a Java program to test a number is positive or negative
+basicprogramming,055,basicprogramming.Q055,src/basicprogramming/Q055.java,Write a Java Program to accept number of week’s day (1-7) and print name of the day
+basicprogramming,056,basicprogramming.Q056,src/basicprogramming/Q056.java,Write a Java program that takes a year from user and print whether that year is a leap year or not
+basicprogramming,057,basicprogramming.Q057,src/basicprogramming/Q057.java,Write a Java program to input 5 numbers from keyboard and find their sum and average
+basicprogramming,058,basicprogramming.Q058,src/basicprogramming/Q058.java,Write a program in Java to display the first 5 natural numbers
+basicprogramming,059,basicprogramming.Q059,src/basicprogramming/Q059.java,Write a java program to check vowel or consonant
+basicprogramming,060,basicprogramming.Q060,src/basicprogramming/Q060.java,Write a Java program to display the cube of the number upto given an integer
+basicprogramming,061,basicprogramming.Q061,src/basicprogramming/Q061.java,Write a Java program to display the n terms of odd natural number and their sum
+basicprogramming,062,basicprogramming.Q062,src/basicprogramming/Q062.java,Write a Java program to display the multiplication table of a given integer
+basicprogramming,063,basicprogramming.Q063,src/basicprogramming/Q063.java,"Write a Java program that reads an integer and check whether it is negative, zero, or positive"
+basicprogramming,064,basicprogramming.Q064,src/basicprogramming/Q064.java,Write a Java program that reads an positive integer and count the number of digits
+basicprogramming,065,basicprogramming.Q065,src/basicprogramming/Q065.java,Write a Java program that accepts three numbers and check All numbers are equal or not
+basicprogramming,066,basicprogramming.Q066,src/basicprogramming/Q066.java,Write a java program that accepts three numbers from the user and check if numbers are in “increasing” or “decreasing” order.
+basicprogramming,067,basicprogramming.Q067,src/basicprogramming/Q067.java,Write a Java program that determines a student’s grade
+basicprogramming,068,basicprogramming.Q068,src/basicprogramming/Q068.java,Write a Java program to create a simple calculator
+basicprogramming,069,basicprogramming.Q069,src/basicprogramming/Q069.java,Write a Java program to concatenate two string
+basicprogramming,070,basicprogramming.Q070,src/basicprogramming/Q070.java,Write a Java program to convert all characters in a string to lowercase
+basicprogramming,071,basicprogramming.Q071,src/basicprogramming/Q071.java,Write a Java program to convert all characters in a string to uppercase
+basicprogramming,072,basicprogramming.Q072,src/basicprogramming/Q072.java,Write a Java program to trim a string(remove whitespaces)
+basicprogramming,073,basicprogramming.Q073,src/basicprogramming/Q073.java,Write a Java program to get a substring of a given string between two specified positions
+basicprogramming,074,basicprogramming.Q074,src/basicprogramming/Q074.java,Write a Java program to replace all the ‘d’ characters with ‘f’ characters
+basicprogramming,075,basicprogramming.Q075,src/basicprogramming/Q075.java,Write a java program to get the length of a given string
+basicprogramming,076,basicprogramming.Q076,src/basicprogramming/Q076.java,Write a java program to print current date and time in the specified format
+basicprogramming,077,basicprogramming.Q077,src/basicprogramming/Q077.java,Write a Java program to get the character at the given index within the String
+basicprogramming,078,basicprogramming.Q078,src/basicprogramming/Q078.java,Write a java program to remove a particular character from a string
+basicprogramming,079,basicprogramming.Q079,src/basicprogramming/Q079.java,Write a java program to reverse a String
+basicprogramming,080,basicprogramming.Q080,src/basicprogramming/Q080.java,Write a java program to remove html tags from a string
+basicprogramming,081,basicprogramming.Q081,src/basicprogramming/Q081.java,Write a java program to count total number of lines from a string
+basicprogramming,082,basicprogramming.Q082,src/basicprogramming/Q082.java,Write a Java program to sum values of an array
+basicprogramming,083,basicprogramming.Q083,src/basicprogramming/Q083.java,Write a Java program to find the index of an array element
+basicprogramming,084,basicprogramming.Q084,src/basicprogramming/Q084.java,Write a Java program to calculate the average value of array elements
+basicprogramming,085,basicprogramming.Q085,src/basicprogramming/Q085.java,Write a Java program to test if an array contains a specific value
+basicprogramming,086,basicprogramming.Q086,src/basicprogramming/Q086.java,Write a Java program to find the maximum and minimum value of an array
+basicprogramming,087,basicprogramming.Q087,src/basicprogramming/Q087.java,Write a Java program to insert an element (specific position) into an array
+basicprogramming,088,basicprogramming.Q088,src/basicprogramming/Q088.java,Write a Java program to reverse an array of integer values
+basicprogramming,089,basicprogramming.Q089,src/basicprogramming/Q089.java,Write a Java program to find the common elements between two arrays
+basicprogramming,090,basicprogramming.Q090,src/basicprogramming/Q090.java,Write a Java program to find the duplicate values of an array of integer values
+basicprogramming,091,basicprogramming.Q091,src/basicprogramming/Q091.java,Write a Java program to convert an array to ArrayList
+basicprogramming,092,basicprogramming.Q092,src/basicprogramming/Q092.java,Write a Java program to add two matrices of the same size
+basicprogramming,093,basicprogramming.Q093,src/basicprogramming/Q093.java,Write a Java program to find second largest number from the array
+basicprogramming,094,basicprogramming.Q094,src/basicprogramming/Q094.java,Write a Java program to find second lowest number from the array
+basicprogramming,095,basicprogramming.Q095,src/basicprogramming/Q095.java,Write a Java program to find the number of even and odd integers in a given array of integers
+basicprogramming,096,basicprogramming.Q096,src/basicprogramming/Q096.java,Write a Java program to get the difference between the largest and smallest values in an array of integers
+basicprogramming,097,basicprogramming.Q097,src/basicprogramming/Q097.java,Write a Java program to segregate all 0s on left side and all 1s on right side of a given array of 0s and 1s
+basicprogramming,098,basicprogramming.Q098,src/basicprogramming/Q098.java,Write a Java program to cyclically rotate a given array clockwise by one
+basicprogramming,099,basicprogramming.Q099,src/basicprogramming/Q099.java,java program to print all unique element in an array
+basicprogramming,100,basicprogramming.Q100,src/basicprogramming/Q100.java,Write a Java Program to Sort the Array in an Ascending Order
+basicprogramming,101,basicprogramming.Q101,src/basicprogramming/Q101.java,Write a Java Program to Sort the Array in an Descending Order
+basicprogramming,102,basicprogramming.Q102,src/basicprogramming/Q102.java,Write a Java Program to Sort Names in an Alphabetical Order
+basicprogramming,103,basicprogramming.Q103,src/basicprogramming/Q103.java,Write a Java Program to Display Transpose Matrix
+basicprogramming,104,basicprogramming.Q104,src/basicprogramming/Q104.java,Write a Java Program to Search Key Elements in an Array
+basicprogramming,105,basicprogramming.Q105,src/basicprogramming/Q105.java,Write a Java Program to Accept the Marks of a Student and find Total Marks and Percentage
+basicprogramming,106,basicprogramming.Q106,src/basicprogramming/Q106.java,Write a java program to print numbers from 1 to 10 using loop
+basicprogramming,107,basicprogramming.Q107,src/basicprogramming/Q107.java,Write a java program to calculate the sum of first 10 natural number using loop
+basicprogramming,108,basicprogramming.Q108,src/basicprogramming/Q108.java,Write a Java program to print multiplication table of given number
+basicprogramming,109,basicprogramming.Q109,src/basicprogramming/Q109.java,Write a Java program to find the factorial value of any number entered through the keyboard
+basicprogramming,110,basicprogramming.Q110,src/basicprogramming/Q110.java,Write a Java program that prompts the user to input an integer and then outputs the number with the digits reversed order
+basicprogramming,111,basicprogramming.Q111,src/basicprogramming/Q111.java,"Write a Java program that reads a set of integers, and then prints the sum of the even and odd integers using loop"
+basicprogramming,112,basicprogramming.Q112,src/basicprogramming/Q112.java,Write a Java program to check whether the number is a prime number or not
+basicprogramming,113,basicprogramming.Q113,src/basicprogramming/Q113.java,Write a Java program to calculate HCF of Two given numbers using loop
+basicprogramming,114,basicprogramming.Q114,src/basicprogramming/Q114.java,"Write a Java program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros"
+basicprogramming,115,basicprogramming.Q115,src/basicprogramming/Q115.java,Write a Java program to enter the numbers till the user wants and at the end the program should display the largest and smallest numbers entered
+basicprogramming,116,basicprogramming.Q116,src/basicprogramming/Q116.java,Write a Java program to print out all Armstrong numbers between 1 to 600 using loop
+basicprogramming,117,basicprogramming.Q117,src/basicprogramming/Q117.java,Write a java program to count total number of notes in entered amount using loop
+basicprogramming,118,basicprogramming.Q118,src/basicprogramming/Q118.java,Write a Java program to print Fibonacci series of n terms where n is input by user using loop
+basicprogramming,119,basicprogramming.Q119,src/basicprogramming/Q119.java,Write a java program to calculate the sum of following series where n is input by user
+basicprogramming,120,basicprogramming.Q120,src/basicprogramming/Q120.java,Write a Java method to compute the average of three numbers
+basicprogramming,121,basicprogramming.Q121,src/basicprogramming/Q121.java,Write a Java method to find the smallest number among three numbers
+basicprogramming,122,basicprogramming.Q122,src/basicprogramming/Q122.java,Write a Java method to count all words in a string
+basicprogramming,123,basicprogramming.Q123,src/basicprogramming/Q123.java,Write a Java method to count all vowels in a string
+basicprogramming,124,basicprogramming.Q124,src/basicprogramming/Q124.java,Write a Java method to compute the sum of the digits in an integer
+basicprogramming,125,basicprogramming.Q125,src/basicprogramming/Q125.java,Write a Java method to check whether an year entered by the user is a leap year or not
+basicprogramming,126,basicprogramming.Q126,src/basicprogramming/Q126.java,Write a Java method to calculate the area of a triangle
+basicprogramming,127,basicprogramming.Q127,src/basicprogramming/Q127.java,Write a Java method to find the area of a pentagon
+basicprogramming,128,basicprogramming.Q128,src/basicprogramming/Q128.java,Write a Java method to find number is even number or not
+basicprogramming,129,basicprogramming.Q129,src/basicprogramming/Q129.java,Write a Java method to check numbers is palindrome number or not
+basicprogramming,130,basicprogramming.Q130,src/basicprogramming/Q130.java,Write a Java method to displays prime numbers between 1 to 20
+basicprogramming,131,basicprogramming.Q131,src/basicprogramming/Q131.java,Write a Java method to find GCD and LCM of Two Numbers
+basicprogramming,132,basicprogramming.Q132,src/basicprogramming/Q132.java,Write a Java method to find factorial using recursion in java
+basicprogramming,133,basicprogramming.Q133,src/basicprogramming/Q133.java,Write a Java program to reverse an integer number
+basicprogramming,134,basicprogramming.Q134,src/basicprogramming/Q134.java,Write a Java program to round a float number to specified decimals
+basicprogramming,135,basicprogramming.Q135,src/basicprogramming/Q135.java,Write a Java program to test if a double number is an integer
+basicprogramming,136,basicprogramming.Q136,src/basicprogramming/Q136.java,Write a Java program to round up the result of integer division
+basicprogramming,137,basicprogramming.Q137,src/basicprogramming/Q137.java,Write a Java program to convert Roman number to an integer number
+basicprogramming,138,basicprogramming.Q138,src/basicprogramming/Q138.java,Write a Java program to convert a float value to absolute value
+basicprogramming,139,basicprogramming.Q139,src/basicprogramming/Q139.java,Write a Java program to accept a float value of number and return a rounded float value
+interfaces,001,interfaces.Q001,src/interfaces/Q001.java,"Write a Java program to create an interface Shape with the getArea() method. Create three classes Rectangle, Circle, and Triangle that implement the Shape interface. Implement the getArea() method for each of the three classes."
+interfaces,002,interfaces.Q002,src/interfaces/Q002.java,"Write a Java program to create a Animal interface with a method called bark() that takes no arguments and returns void. Create a Dog class that implements Animal and overrides speak() to print ""Dog is barking""."
+interfaces,003,interfaces.Q003,src/interfaces/Q003.java,"Write a Java program to create an interface Flyable with a method called fly_obj(). Create three classes Spacecraft, Airplane, and Helicopter that implement the Flyable interface. Implement the fly_obj() method for each of the three classes."
+interfaces,004,interfaces.Q004,src/interfaces/Q004.java,"Write a Java programming to create a banking system with three classes - Bank, Account, SavingsAccount, and CurrentAccount. The bank should have a list of accounts and methods for adding them. Accounts should be an interface with methods to deposit, withdraw, calculate interest, and view balances. SavingsAccount and CurrentAccount should implement the Account interface and have their own unique methods."
+interfaces,005,interfaces.Q005,src/interfaces/Q005.java,Write a Java program to create an interface Resizable with methods resizeWidth(int width) and resizeHeight(int height) that allow an object to be resized. Create a class Rectangle that implements the Resizable interface and implements the resize methods.
+interfaces,006,interfaces.Q006,src/interfaces/Q006.java,"Write a Java program to create an interface Drawable with a method draw() that takes no arguments and returns void. Create three classes Circle, Rectangle, and Triangle that implement the Drawable interface and override the draw() method to draw their respective shapes."
+interfaces,007,interfaces.Q007,src/interfaces/Q007.java,Write a Java program to create an interface Sortable with a method sort() that sorts an array of integers in ascending order. Create two classes BubbleSort and SelectionSort that implement the Sortable interface and provide their own implementations of the sort() method.
+interfaces,008,interfaces.Q008,src/interfaces/Q008.java,"Write a Java program to create an interface Playable with a method play() that takes no arguments and returns void. Create three classes Football, Volleyball, and Basketball that implement the Playable interface and override the play() method to play the respective sports."
+interfaces,009,interfaces.Q009,src/interfaces/Q009.java,Write a Java program to create an interface Searchable with a method search(String keyword) that searches for a given keyword in a text document. Create two classes Document and WebPage that implement the Searchable interface and provide their own implementations of the search() method.
+interfaces,010,interfaces.Q010,src/interfaces/Q010.java,Write a Java program to create an interface Encryptable with methods encrypt (String data) and decrypt (String encryptedData) that define encryption and decryption operations. Create two classes AES and RSA that implement the Encryptable interface and provide their own encryption and decryption algorithms.
+interfaces,011,interfaces.Q011,src/interfaces/Q011.java,Write a Java program to create an interface Sortable with a method sort (int[] array) that sorts an array of integers in descending order. Create two classes QuickSort and MergeSort that implement the Sortable interface and provide their own implementations of the sort() method.
+packages,001,packages.Q001,src/packages/Q001.java,Create a Java program to access the java.util.Date class through import keyword and print the current date of the system.
+packages,002,packages.Q002,src/packages/Q002.java,Create a Java program to access the java.util.Date class through qualified way and print the current date of the system.
+packages,003,packages.Q003,src/packages/Q003.java,Create a Java program to access the java.util.Date class through import keyword and print the current date of the system but inherit the Date class.
+packages,004,packages.Q004,src/packages/Q004.java,Create a Java program to access the java.util.Date class through qualified way and print the current date of the system but inherit the Date class.
+packages,005,packages.Q005,src/packages/Q005.java,Create a Java program to create a package with multiple default classes.
+packages,006,packages.Q006,src/packages/Q006.java,"Create a Java program to create a package with 4 public classes, create the object in another file and call the function created in those classes."
+packages,007,packages.Q007,src/packages/Q007.java,"Write a Java program to perform employee payroll processing using packages. In the java file, Emp.java creates a package employee and creates a class Emp. Declare the variables name,empid, category, bpay, hra, da, npay, pf, grosspay, incometax, and allowance. Calculate the values in methods. Create another java file Emppay.java. Create an object e to call the methods to perform and print values."
+packages,008,packages.Q008,src/packages/Q008.java,Create a Java program to create a package with public class and protected members to be accessed in another class.
+packages,009,packages.Q009,src/packages/Q009.java,Create a Java program to create a nested package i.e. c4.sample with public class and protected members to be accessed in another class.
+packages,010,packages.Q010,src/packages/Q010.java,Create a Java program to create a package with public class and public members to be accessed in another class.
+inheritance,001,inheritance.Q001,src/inheritance/Q001.java,Write a Java program to create a class called Animal with a method called makeSound(). Create a subclass called Cat that overrides the makeSound() method to bark.
+inheritance,002,inheritance.Q002,src/inheritance/Q002.java,"Write a Java program to create a class called Vehicle with a method called drive(). Create a subclass called Car that overrides the drive() method to print ""Repairing a car""."
+inheritance,003,inheritance.Q003,src/inheritance/Q003.java,Write a Java program to create a class called Shape with a method called getArea(). Create a subclass called Rectangle that overrides the getArea() method to calculate the area of a rectangle.
+inheritance,004,inheritance.Q004,src/inheritance/Q004.java,Write a Java program to create a class called Employee with methods called work() and getSalary(). Create a subclass called HRManager that overrides the work() method and adds a new method called addEmployee().
+inheritance,005,inheritance.Q005,src/inheritance/Q005.java,"Write a Java program to create a class known as ""BankAccount"" with methods called deposit() and withdraw(). Create a subclass called SavingsAccount that overrides the withdraw() method to prevent withdrawals if the account balance falls below one hundred."
+inheritance,006,inheritance.Q006,src/inheritance/Q006.java,Write a Java program to create a class called Animal with a method named move(). Create a subclass called Cheetah that overrides the move() method to run.
+inheritance,007,inheritance.Q007,src/inheritance/Q007.java,Write a Java program to create a class known as Person with methods called getFirstName() and getLastName(). Create a subclass called Employee that adds a new method named getEmployeeId() and overrides the getLastName() method to include the employee's job title
+inheritance,008,inheritance.Q008,src/inheritance/Q008.java,Write a Java program to create a class called Shape with methods called getPerimeter() and getArea(). Create a subclass called Circle that overrides the getPerimeter() and getArea() methods to calculate the area and perimeter of a circle.
+inheritance,009,inheritance.Q009,src/inheritance/Q009.java,"Write a Java program to create a vehicle class hierarchy. The base class should be Vehicle, with subclasses Truck, Car and Motorcycle. Each subclass should have properties such as make, model, year, and fuel type. Implement methods for calculating fuel efficiency, distance traveled, and maximum speed."
+inheritance,010,inheritance.Q010,src/inheritance/Q010.java,"Write a Java program that creates a class hierarchy for employees of a company. The base class should be Employee, with subclasses Manager, Developer, and Programmer. Each subclass should have properties such as name, address, salary, and job title. Implement methods for calculating bonuses, generating performance reports, and managing projects."
+inheritance,011,inheritance.Q011,src/inheritance/Q011.java,"Create a program, showing an example of super keyword"
+inheritance,012,inheritance.Q012,src/inheritance/Q012.java,"Create a program, showing an example of super function"
+inheritance,013,inheritance.Q013,src/inheritance/Q013.java,"Create a program, showing an example of method overriding"
+inheritance,014,inheritance.Q014,src/inheritance/Q014.java,"Create a program, showing an example of dynamic method dispatch"
+inheritance,015,inheritance.Q015,src/inheritance/Q015.java,Write a Java program to create an abstract class Animal with an abstract method called sound(). Create subclasses Lion and Tiger that extend the Animal class and implement the sound() method to make a specific sound for each animal.
+inheritance,016,inheritance.Q016,src/inheritance/Q016.java,Write a Java program to create an abstract class Shape with abstract methods calculateArea() and calculatePerimeter(). Create subclasses Circle and Triangle that extend the Shape class and implement the respective methods to calculate the area and perimeter of each shape.
+inheritance,017,inheritance.Q017,src/inheritance/Q017.java,Write a Java program to create an abstract class BankAccount with abstract methods deposit() and withdraw(). Create subclasses: SavingsAccount and CurrentAccount that extend the BankAccount class and implement the respective methods to handle deposits and withdrawals for each account type.
+inheritance,018,inheritance.Q018,src/inheritance/Q018.java,"Write a Java program to create an abstract class Animal with abstract methods eat() and sleep(). Create subclasses Lion, Tiger, and Deer that extend the Animal class and implement the eat() and sleep() methods differently based on their specific behavior."
+inheritance,019,inheritance.Q019,src/inheritance/Q019.java,Write a Java program to create an abstract class Employee with abstract methods calculateSalary() and displayInfo(). Create subclasses Manager and Programmer that extend the Employee class and implement the respective methods to calculate salary and display information for each role.
+inheritance,020,inheritance.Q020,src/inheritance/Q020.java,Write a Java program to create an abstract class Shape3D with abstract methods calculateVolume() and calculateSurfaceArea(). Create subclasses Sphere and Cube that extend the Shape3D class and implement the respective methods to calculate the volume and surface area of each shape
+inheritance,021,inheritance.Q021,src/inheritance/Q021.java,Write a Java program to create an abstract class Vehicle with abstract methods startEngine() and stopEngine(). Create subclasses Car and Motorcycle that extend the Vehicle class and implement the respective methods to start and stop the engines for each vehicle type.
+inheritance,022,inheritance.Q022,src/inheritance/Q022.java,Write a Java program to create an abstract class Person with abstract methods eat() and exercise(). Create subclasses Athlete and LazyPerson that extend the Person class and implement the respective methods to describe how each person eats and exercises.
+inheritance,023,inheritance.Q023,src/inheritance/Q023.java,Write a Java program to create an abstract class Instrument with abstract methods play() and tune(). Create subclasses for Glockenspiel and Violin that extend the Instrument class and implement the respective methods to play and tune each instrument.
+inheritance,024,inheritance.Q024,src/inheritance/Q024.java,Write a Java program to create an abstract class Shape2D with abstract methods draw() and resize(). Create subclasses Rectangle and Circle that extend the Shape2D class and implement the respective methods to draw and resize each shape.
+inheritance,025,inheritance.Q025,src/inheritance/Q025.java,Write a Java program to create an abstract class Bird with abstract methods fly() and makeSound(). Create subclasses Eagle and Hawk that extend the Bird class and implement the respective methods to describe how each bird flies and makes a sound.
+inheritance,026,inheritance.Q026,src/inheritance/Q026.java,Write a Java program to create an abstract class GeometricShape with abstract methods area() and perimeter(). Create subclasses Triangle and Square that extend the GeometricShape class and implement the respective methods to calculate the area and perimeter of each shape
+inputoutput,001,inputoutput.Q001,src/inputoutput/Q001.java,Enter the character from user using InputStreamReader
+inputoutput,002,inputoutput.Q002,src/inputoutput/Q002.java,Enter the string from user using BufferedStreamReader
+inputoutput,003,inputoutput.Q003,src/inputoutput/Q003.java,Enter the integer from user using Scanner class
+inputoutput,004,inputoutput.Q004,src/inputoutput/Q004.java,Enter the float from user using Scanner class
+inputoutput,005,inputoutput.Q005,src/inputoutput/Q005.java,Enter the double from user using Scanner class
+inputoutput,006,inputoutput.Q006,src/inputoutput/Q006.java,Enter the boolean from user using Scanner class
+inputoutput,007,inputoutput.Q007,src/inputoutput/Q007.java,Enter the short integer from user using Scanner class
+inputoutput,008,inputoutput.Q008,src/inputoutput/Q008.java,Enter the long integer from user using Scanner class
+inputoutput,009,inputoutput.Q009,src/inputoutput/Q009.java,Get all characters from the file and display on the screen
+inputoutput,010,inputoutput.Q010,src/inputoutput/Q010.java,"Get all characters from the file, count number of lines, words, characters and display on the screen"
+exceptionhandling,001,exceptionhandling.Q001,src/exceptionhandling/Q001.java,Write a Java program that throws an exception and catch it using a try-catch block.
+exceptionhandling,002,exceptionhandling.Q002,src/exceptionhandling/Q002.java,Write a Java program to create a method that takes an integer as a parameter and throws an exception if the number is odd.
+exceptionhandling,003,exceptionhandling.Q003,src/exceptionhandling/Q003.java,Write a Java program to create a method that reads a file and throws an exception if the file is not found
+exceptionhandling,004,exceptionhandling.Q004,src/exceptionhandling/Q004.java,Write a Java program that reads a list of numbers from a file and throws an exception if any of the numbers are positive
+exceptionhandling,005,exceptionhandling.Q005,src/exceptionhandling/Q005.java,Write a Java program that reads a file and throws an exception if the file is empty.
+exceptionhandling,006,exceptionhandling.Q006,src/exceptionhandling/Q006.java,Write a Java program that reads a list of integers from the user and throws an exception if any numbers are duplicates
+exceptionhandling,007,exceptionhandling.Q007,src/exceptionhandling/Q007.java,Write a Java program to create a method that takes a string as input and throws an exception if the string does not contain vowels.
+exceptionhandling,008,exceptionhandling.Q008,src/exceptionhandling/Q008.java,"Write a Java program to connect the Java API to Database, if connection not successful then throw an exception"
+exceptionhandling,009,exceptionhandling.Q009,src/exceptionhandling/Q009.java,"Write a Java program to manage the driver with path, username and password, if not successful then throw an exception"
+exceptionhandling,010,exceptionhandling.Q010,src/exceptionhandling/Q010.java,"Write a Java program to throw the SQL Query, insert, delete, update, if not successful then throw an exception"
+exceptionhandling,011,exceptionhandling.Q011,src/exceptionhandling/Q011.java,Write a Java program to show an example of throws Keyword.
+exceptionhandling,012,exceptionhandling.Q012,src/exceptionhandling/Q012.java,Write a Java program to show an example of multiple catch
+exceptionhandling,013,exceptionhandling.Q013,src/exceptionhandling/Q013.java,Write a Java program to show an example of nested try block.
+multithreading,001,multithreading.Q001,src/multithreading/Q001.java,"Write a Java program to create a basic Java thread that prints ""Hello, World!"" when executed."
+multithreading,002,multithreading.Q002,src/multithreading/Q002.java,Write a Java program that creates two threads to find and print even and odd numbers from 1 to 20.
+multithreading,003,multithreading.Q003,src/multithreading/Q003.java,Write a Java program that sorts an array of integers using multiple threads.
+multithreading,004,multithreading.Q004,src/multithreading/Q004.java,Write a Java program that performs matrix multiplication using multiple threads.
+multithreading,005,multithreading.Q005,src/multithreading/Q005.java,Write a Java program that calculates the sum of all prime numbers up to a given limit using multiple threads.
+multithreading,006,multithreading.Q006,src/multithreading/Q006.java,Write a Java program to implement a concurrent web crawler that crawls multiple websites simultaneously using threads.
+multithreading,007,multithreading.Q007,src/multithreading/Q007.java,Write a Java program that creates a bank account with concurrent deposits and withdrawals using threads.
+multithreading,008,multithreading.Q008,src/multithreading/Q008.java,Create the program to create multiple threads by using Runnable interface
+multithreading,009,multithreading.Q009,src/multithreading/Q009.java,Create the program to create multiple threads by using Thread class
+multithreading,010,multithreading.Q010,src/multithreading/Q010.java,"Create the program to create multiple threads, set its name and its priority."
+multithreading,011,multithreading.Q011,src/multithreading/Q011.java,"Create the program to create multiple threads, show an example of synchronization keyword."
+multithreading,012,multithreading.Q012,src/multithreading/Q012.java,"Create the program to create multiple threads, show an example of notify, notifyall, wait, resume, sleep methods."
+multithreading,013,multithreading.Q013,src/multithreading/Q013.java,"Create the program to create multiple threads, show an example of join and yield methods."
+dataconversion,001,dataconversion.Q001,src/dataconversion/Q001.java,How to convert String to int
+dataconversion,002,dataconversion.Q002,src/dataconversion/Q002.java,How to convert int to String
+dataconversion,003,dataconversion.Q003,src/dataconversion/Q003.java,How to convert String to long
+dataconversion,004,dataconversion.Q004,src/dataconversion/Q004.java,How to convert long to String
+dataconversion,005,dataconversion.Q005,src/dataconversion/Q005.java,How to convert String to float
+dataconversion,006,dataconversion.Q006,src/dataconversion/Q006.java,How to convert float to String
+dataconversion,007,dataconversion.Q007,src/dataconversion/Q007.java,How to convert String to double
+dataconversion,008,dataconversion.Q008,src/dataconversion/Q008.java,How to convert double to String
+dataconversion,009,dataconversion.Q009,src/dataconversion/Q009.java,How to convert String to Date
+dataconversion,010,dataconversion.Q010,src/dataconversion/Q010.java,How to convert Date to String
+dataconversion,011,dataconversion.Q011,src/dataconversion/Q011.java,How to convert String to char
+dataconversion,012,dataconversion.Q012,src/dataconversion/Q012.java,How to convert char to String
+dataconversion,013,dataconversion.Q013,src/dataconversion/Q013.java,How to convert String to Object
+dataconversion,014,dataconversion.Q014,src/dataconversion/Q014.java,How to convert Object to String
+dataconversion,015,dataconversion.Q015,src/dataconversion/Q015.java,How to convert int to long
+dataconversion,016,dataconversion.Q016,src/dataconversion/Q016.java,How to convert long to int
+dataconversion,017,dataconversion.Q017,src/dataconversion/Q017.java,How to convert int to double
+dataconversion,018,dataconversion.Q018,src/dataconversion/Q018.java,How to convert double to int
+dataconversion,019,dataconversion.Q019,src/dataconversion/Q019.java,How to convert char to int
+dataconversion,020,dataconversion.Q020,src/dataconversion/Q020.java,How to convert int to char
+dataconversion,021,dataconversion.Q021,src/dataconversion/Q021.java,How to convert String to boolean
+dataconversion,022,dataconversion.Q022,src/dataconversion/Q022.java,How to convert boolean to String
+dataconversion,023,dataconversion.Q023,src/dataconversion/Q023.java,How to convert Date to Timestamp
+dataconversion,024,dataconversion.Q024,src/dataconversion/Q024.java,How to convert Timestamp to Date
+dataconversion,025,dataconversion.Q025,src/dataconversion/Q025.java,How to convert Binary to Decimal
+dataconversion,026,dataconversion.Q026,src/dataconversion/Q026.java,How to convert Decimal to Binary
+dataconversion,027,dataconversion.Q027,src/dataconversion/Q027.java,How to convert Hex to Decimal
+dataconversion,028,dataconversion.Q028,src/dataconversion/Q028.java,How to convert Decimal to Hex
+dataconversion,029,dataconversion.Q029,src/dataconversion/Q029.java,How to convert Octal to Decimal
+dataconversion,030,dataconversion.Q030,src/dataconversion/Q030.java,How to convert Decimal to Octal
+oop,001,oop.Q001,src/oop/Q001.java,"Write a Java program to create a class called ""Person"" with a name and age attribute. Create two instances of the ""Person"" class, set their attributes using the constructor, and print their name and age."
+oop,002,oop.Q002,src/oop/Q002.java,"Write a Java program to create a class called ""Dog"" with a name and breed attribute. Create two instances of the ""Dog"" class, set their attributes using the constructor and modify the attributes using the setter methods and print the updated values."
+oop,003,oop.Q003,src/oop/Q003.java,"Write a Java program to create a class called ""Rectangle"" with width and height attributes. Calculate the area and perimeter of the rectangle."
+oop,004,oop.Q004,src/oop/Q004.java,"Write a Java program to create a class called ""Circle"" with a radius attribute. You can access and modify this attribute. Calculate the area and circumference of the circle."
+oop,005,oop.Q005,src/oop/Q005.java,"Write a Java program to create a class called ""Book"" with attributes for title, author, and ISBN, and methods to add and remove books from a collection."
+oop,006,oop.Q006,src/oop/Q006.java,"Write a Java program to create a class called ""Employee"" with a name, job title, and salary attributes, and methods to calculate and update salary."
+oop,007,oop.Q007,src/oop/Q007.java,"Write a Java program to create a class called ""Bank"" with a collection of accounts and methods to add and remove accounts, and to deposit and withdraw money. Also define a class called ""Account"" to maintain account details of a particular customer."
+oop,008,oop.Q008,src/oop/Q008.java,"Write a Java program to create class called ""TrafficLight"" with attributes for color and duration, and methods to change the color and check for red or green."
+oop,009,oop.Q009,src/oop/Q009.java,"Write a Java program to create a class called ""Employee"" with a name, salary, and hire date attributes, and a method to calculate years of service."
+oop,010,oop.Q010,src/oop/Q010.java,"Write a Java program to create a class called ""Student"" with a name, grade, and courses attributes, and methods to add and remove courses."
+oop,011,oop.Q011,src/oop/Q011.java,"Write a Java program to create a class called ""Library"" with a collection of books and methods to add and remove books."
+oop,012,oop.Q012,src/oop/Q012.java,"Write a Java program to create a class called ""Airplane"" with a flight number, destination, and departure time attributes, and methods to check flight status and delay."
+oop,013,oop.Q013,src/oop/Q013.java,"Write a Java program to create a class called ""Inventory"" with a collection of products and methods to add and remove products, and to check for low inventory."
+oop,014,oop.Q014,src/oop/Q014.java,"Write a Java program to create a class called ""School"" with attributes for students, teachers, and classes, and methods to add and remove students and teachers, and to create classes."
+oop,015,oop.Q015,src/oop/Q015.java,"Write a Java program to create a class called ""MusicLibrary"" with a collection of songs and methods to add and remove songs, and to play a random song."
+oop,016,oop.Q016,src/oop/Q016.java,"Write a Java program to create a class called ""Shape"" with abstract methods for calculating area and perimeter, and subclasses for ""Rectangle"", ""Circle"", and ""Triangle""."
+oop,017,oop.Q017,src/oop/Q017.java,"Write a Java program to create a class called ""Movie"" with attributes for title, director, actors, and reviews, and methods for adding and retrieving reviews."
+oop,018,oop.Q018,src/oop/Q018.java,"Write a Java program to create a class called ""Restaurant"" with attributes for menu items, prices, and ratings, and methods to add and remove items, and to calculate average rating."
+oop,019,oop.Q019,src/oop/Q019.java,"Write a Java program to create a class with methods to search for flights and hotels, and to book and cancel reservations."
+oop,020,oop.Q020,src/oop/Q020.java,Create a class showing an example of default constructor.
+oop,021,oop.Q021,src/oop/Q021.java,Create a class showing an example of parameterized constructor.
+oop,022,oop.Q022,src/oop/Q022.java,Create a class showing an example of copy constructor.
+oop,023,oop.Q023,src/oop/Q023.java,"Create a class entering the rollno, name and class of the student from user but rollno should be automatically generated as we enter the information of 10 students"
+oop,024,oop.Q024,src/oop/Q024.java,Create a class showing the area of circle and rectangle by method overloading.
+oop,025,oop.Q025,src/oop/Q025.java,"Create a class, entering the command line arguments from the user and show all the arguments as output.."
+oop,026,oop.Q026,src/oop/Q026.java,"Write a Java program to create a class called Person with private instance variables name, age. and country. Provide public getter and setter methods to access and modify these variables."
+oop,027,oop.Q027,src/oop/Q027.java,Write a Java program to create a class called BankAccount with private instance variables accountNumber and balance. Provide public getter and setter methods to access and modify these variables.
+oop,028,oop.Q028,src/oop/Q028.java,Write a Java program to create a class called Rectangle with private instance variables length and width. Provide public getter and setter methods to access and modify these variables.
+oop,029,oop.Q029,src/oop/Q029.java,"Write a Java program to create a class called Employee with private instance variables employee_id, employee_name, and employee_salary. Provide public getter and setter methods to access and modify the id and name variables, but provide a getter method for the salary variable that returns a formatted string."
+oop,030,oop.Q030,src/oop/Q030.java,"Write a Java program to create a class called Circle with a private instance variable radius. Provide public getter and setter methods to access and modify the radius variable. However, provide two methods called calculateArea() and calculatePerimeter() that return the calculated area and perimeter based on the current radius value."
+oop,031,oop.Q031,src/oop/Q031.java,"Write a Java program to create a class called Car with private instance variables company_name, model_name, year, and mileage. Provide public getter and setter methods to access and modify the company_name, model_name, and year variables. However, only provide a getter method for the mileage variable."
+oop,032,oop.Q032,src/oop/Q032.java,"Write a Java program to create a class called Student with private instance variables student_id, student_name, and grades. Provide public getter and setter methods to access and modify the student_id and student_name variables. However, provide a method called addGrade() that allows adding a grade to the grades variable while performing additional validation."
